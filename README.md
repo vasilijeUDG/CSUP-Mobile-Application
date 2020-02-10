@@ -14,7 +14,7 @@ With the rapid technological changes, the manufacturer is getting new ways to ma
 
 Logical View
 
-https://github.com/vasilijeUDG/KupovinaMed/blob/master/Dijagram.png
+https://github.com/vasilijeUDG/CSUP-Mobile-Application/blob/medd/Dijagram.png
 
 Technology Stack
 
